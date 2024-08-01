@@ -2,7 +2,7 @@
 # Simulation of Bank Account
 This project demonstrates a simple simulation of bank account operations using JavaScript,HTML and CSS. The BankAccount class supports various functionalities including deposit, withdrawal, fund transfer, interest addition, and viewing account details. The HTML interface allows users to interact with these functionalities through a web page.
 
-![BankAccountSimulationPic](https://github.com/Chakri1407/TokenStakingDapp/blob/main/Client/src/assets/Project-pic.png)
+![BankAccountSimulationPic](https://github.com/Chakri1407/BankAccountClass/blob/main/Assets/MainPicture.png)
 
 ## Table of Contents
 - Features 
