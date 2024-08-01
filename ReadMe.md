@@ -2,7 +2,7 @@
 # Simulation of Bank Account
 This project demonstrates a simple simulation of bank account operations using JavaScript,HTML and CSS. The BankAccount class supports various functionalities including deposit, withdrawal, fund transfer, interest addition, and viewing account details. The HTML interface allows users to interact with these functionalities through a web page.
 
-![BankAccountSimulationPic](https://github.com/Chakri1407/TokenStakingDapp/blob/main/Client/src/assets/Project-pic.png)
+![BankAccountSimulationPic](https://github.com/Chakri1407/BankAccountClass/blob/main/Assets/MainPicture.png)
 
 ## Table of Contents
 - Features 
@@ -34,34 +34,34 @@ This project demonstrates a simple simulation of bank account operations using J
 2. Inside this directory, create three files: ``` index.html ```,``` Style.css```  and ```app.js```.
 3. Copy the respective codes provided into  ``` index.html ```,``` Style.css```  and ```app.js```.
 4. Open ```index.html``` in your web browser to run the simulation.
-5. or, you can clone it with this github link:  ``` link ```
+5. You may also clone the repository using this GitHub link ``` https://github.com/Chakri1407/BankAccountClass ```
 
 # Usage
 
 ### Deposit 
 1. Enter the amount you want to deposit in the "Enter Amount To Deposit" field.
 2. Click the 'Submit' button to receive the following information: 
-![DepositPic](https://github.com/Chakri1407/TokenStakingDapp/blob/main/Client/src/assets/Project-pic.png)
+![DepositPic](https://github.com/Chakri1407/BankAccountClass/blob/main/Assets/DepositPicture.png)
 
 ### Withdraw
 1. Enter the amount you want to withdraw in the "Enter Amount To Withdraw" field.
 2. Click the 'Submit' button to receive the following information: 
-![WithdrawPic](https://github.com/Chakri1407/TokenStakingDapp/blob/main/Client/src/assets/Project-pic.png)
+![WithdrawPic](https://github.com/Chakri1407/BankAccountClass/blob/main/Assets/WithdrawPicture.png)
 
 ### Transfer
 1. Enter the amount you want to transfer in the "Enter Amount To Transfer" field.
 2. Click the 'Submit' button to receive the following information:
-![TransferPic](https://github.com/Chakri1407/TokenStakingDapp/blob/main/Client/src/assets/Project-pic.png)
+![TransferPic](https://github.com/Chakri1407/BankAccountClass/blob/main/Assets/TransferPicture.png)
 
 ### Add Interest
 1. Enter the interest rate you want to add in the "Add Interest" field.
 2. Click the 'Submit' button to receive the following information:
-![AddInterestPic](https://github.com/Chakri1407/TokenStakingDapp/blob/main/Client/src/assets/Project-pic.png)
+![AddInterestPic](https://github.com/Chakri1407/BankAccountClass/blob/main/Assets/InterestPicture.png)
 
 ### Get Account Details
 1. Enter the account number in the "Get Account Details" field.
 2. Click the 'Submit' button to receive the following information:
-![AccountDetailsPic](https://github.com/Chakri1407/TokenStakingDapp/blob/main/Client/src/assets/Project-pic.png)
+![AccountDetailsPic](https://github.com/Chakri1407/BankAccountClass/blob/main/Assets/AccountDetailsPicture.png)
 
 ## Class Details
 ### BankAccount
